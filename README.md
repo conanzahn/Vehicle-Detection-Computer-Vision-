@@ -1,5 +1,8 @@
-# Vehicle Detection (Computer Vision)
-Individual Project
+# Vehicle Detection (Computer Vision - Individual Project)
+
+## Preview
+
+<img src="C:\Users\Conan Zahn\Desktop\vechile.jpg" style="zoom: 50%;" />
 
 ## Introduction
 Vehicle detection and statistics are an important component
@@ -10,7 +13,7 @@ Vehicle detection takes images as input, analyzes through a
 series of algorithms, and outputs labelled images with bounding 
 boxes around the recognized vehicles.
 
-## [Dataset](https://github.com/TuSimple/tusimple-benchmark)
+## [Dataset](https://github.com/TuSimple/tusimple-benchmark) (click here to access datasets)
 The complexity of the dataset for this task is the video 
 recorded on highways, vehicles with different relative distances, 
 and variable traffic conditions. As for the size of datasets, the 
@@ -33,3 +36,19 @@ I focus on the above issues to propose a viable
 solution, I apply the Histogram of Oriented Gradients to extract 
 image features, select the support vector machine (SVM) as the 
 classifier model to train the dataset.
+
+## Method Structure
+- Preprocessing of Dataset
+    - Region of interest (ROI)
+    - Resize dataset
+- Feature Extraction
+    - HOG feature extraction
+- Classifier
+    - support vector machine (SVM) 
+- Object Detection
+    - sliding window
+
+## How to Use
+1. Clone/Download the repo [https://github.com/conanzahn/Vehicle-Detection-Computer-Vision-.git]
+2. Download Datasets to your local machine [https://github.com/TuSimple/tusimple-benchmark]
+3. Run Jupyter notebook
