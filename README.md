@@ -2,7 +2,7 @@
 
 ## Preview
 
-<img src="./Doc/VehicleDetect" style="zoom: 50%;" />
+![VehicleDetect](https://user-images.githubusercontent.com/54277153/130087448-f9fcf60b-e445-4683-bfdd-b0120396c74e.jpg)
 
 ## Introduction
 Vehicle detection and statistics are an important component
