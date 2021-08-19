@@ -2,7 +2,7 @@
 
 ## Preview
 
-<img src="C:\Users\Conan Zahn\Desktop\vechile.jpg" style="zoom: 50%;" />
+<img src="./Doc/VehicleDetect" style="zoom: 50%;" />
 
 ## Introduction
 Vehicle detection and statistics are an important component
