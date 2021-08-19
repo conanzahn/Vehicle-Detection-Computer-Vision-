@@ -1,8 +1,7 @@
 # Vehicle Detection (Computer Vision - Individual Project)
 
 ## Preview
-![alt text](https://github.com/[conanzahn]/[Vehicle-Detection-Computer-Vision-]/blob/[main]/image.jpg?raw=true)
-
+![VehicleDetect](https://user-images.githubusercontent.com/54277153/130087448-f9fcf60b-e445-4683-bfdd-b0120396c74e.jpg)
 
 ## Introduction
 Vehicle detection and statistics are an important component
